@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BeispielVererbungBackwaren.Backware">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeispielVererbungBackwaren.Brot">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAJAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Brot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeispielVererbungBackwaren.Fruehstuecksbackware">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fruehstuecksbackware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeispielVererbungBackwaren.Konditoreiware">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Konditoreiware.cs</FileName>
+      <NewMemberFileName>konditoreiware.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeispielVererbungBackwaren.Salzbackware">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Salzbackware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BeispielVererbungBackwaren.Sueßbackware">
+    <Position X="4.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAIAAAAAAAAA=</HashCode>
+      <FileName>Sueßbackware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
