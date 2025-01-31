@@ -13,6 +13,8 @@ namespace BeispielVererbungBackwaren
             Console.OutputEncoding = Encoding.UTF8;
             Brot dinkel = new Brot("Dinkelbrot",2.45,"Dinkelmehl",750.00);
             Console.WriteLine($"{dinkel.Name} : {dinkel.Verkaufspreis} €");
+
+            Sueßbackware.FarbeAusgeben(Farben.Weiß);
         }
     }
 }
